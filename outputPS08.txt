@@ -1,0 +1,28 @@
+
+Naive method: 
+Test Case: 1
+First Child [3, 10, 18]
+Second Child [1, 1, 1, 2, 2, 4, 5, 15]
+
+Dynamic programming: 
+Test Case: 1
+First Child [3, 10, 18]
+Second Child [1, 1, 1, 2, 2, 4, 5, 15]
+
+Naive method: 
+Test Case: 2
+First Child [11, 22, 25]
+Second Child [1, 2, 3, 5, 8, 9, 14, 15]
+
+Dynamic programming: 
+Test Case: 2
+First Child [11, 22, 25]
+Second Child [1, 2, 3, 5, 8, 9, 14, 15]
+
+Naive method: 
+Test Case: 3
+Unable to split the given list [1, 2, 5]
+
+Dynamic programming: 
+Test Case: 3
+Unable to split the given list [1, 2, 5]
