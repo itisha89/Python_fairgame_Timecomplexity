@@ -66,3 +66,7 @@ This project implements a **dynamic programming-based solution** to fairly split
 
 ---
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
